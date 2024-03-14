@@ -20,7 +20,7 @@ from sklearn import preprocessing
 ```{python}
 df = penguins.load_penguins().dropna()
 
-df.head(3)
+df.head(5)
 ```
 
 
